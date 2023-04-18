@@ -1,0 +1,5 @@
+1_Participant_ID;2_Age;3_Mood;4_Option;5_Motivation;6_Find_page_land;7_Success_land;8_Difficulty_land;9_Interface_land;10_Map_colors_land;11_Buttons_land;12_Style_land;13_Find_page_city;14_Success_city;15_Difficulty_city;16_Interface_city;17_Map_colors_city;18_Buttons_city;19_Style_city;20_understanding_task;21_completion_task;22_Satisfaction;23_Best;23_1_readability;23_2_clear;23_3_interactive;23_4_information;23_5_learning;23_6_exploration;23_7_names;23_8_material;23_9_interesting;23_10_mental;23_11_task;23_12_pressure;23_13_rapid;23_14_success;23_15_satisfaction;23_16_work;23_17_insecure;24_Comments;25_Time_needed_land;26_Time_needed_city;27_Time_needed_find_website;28_Time_needed_find_website
+1;22;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;1;0;0;0;0;0;4;0;1;4;4;1;4;4;4;0;1;4;4;3;4;4;Very good ;500;3000;22;55
+2;23;1;1;1;0;1;0;1;1;1;1;1;1;1;1;3;3;1;0;1;1;1;1;4;1;4;3;0;4;4;3;1;0;3;4;3;0;1;2;Didn't get it;300;400;23;44
+3;25;1;2;0;0;0;3;2;4;4;1;1;1;3;4;2;1;0;1;0;1;0;1;1;4;3;2;2;3;4;2;4;1;4;2;0;2;1;3;To much;200;100;40;14
+4;27;0;1;1;1;1;4;4;3;3;1;1;0;4;3;1;2;0;2;1;0;1;0;2;3;2;4;3;2;4;2;3;2;2;2;1;1;1;1;Unclear;111;200;70;10
