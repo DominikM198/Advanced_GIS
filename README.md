@@ -1,1 +1,2 @@
-# Advanced_GIS Usability Study
+# Comparison of Geoportals Basel Stadt and Basel
+Landschaft - Usability Study
