@@ -1,2 +1,1 @@
-# Comparison of Geoportals Basel Stadt and Basel
-Landschaft - Usability Study
+# Comparison of Geoportals Basel Stadt and Basel Landschaft - Usability Study
